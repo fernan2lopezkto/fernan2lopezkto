@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Rey</h1>
-<h3 align="center">a passionate student of software development, from uruguay</h3>
+<h3 align="center">A passionate software development students, from uruguay</h3>
 
 - 🌱 I’m currently learning **fundaments, low and high level in Holberton School**
 
