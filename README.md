@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Juan Rey</h1>
-<h3 align="center">A passionate software development students, from uruguay</h3>
+<h1 align="center">Hola 👋, Soy Juan Rey</h1>
+<h3 align="center">Un apacionado desarrollador front-end Uruguayo</h3>
 <br>
 <p>
-Soy un apasionado desarrollador de software con experiencia en múltiples facetas. Mi pasión por el UX/UI me impulsa a diseñar soluciones que generen impacto y satisfagan las necesidades del usuario. Además, mi capacidad full-stack me permite abordar desafíos desde la concepción hasta la implementación, garantizando soluciones cohesivas y de alta calidad. Me defino también por mi habilidad para aprender nuevas tecnologías velozmente, lo que me permite mantenerme actualizado en un entorno tecnológico en constante evolución.
+Con experiencia en múltiples facetas. Mi pasión por el UX/UI me impulsa a diseñar soluciones que generen impacto y satisfagan las necesidades del usuario. Además, mi capacidad full-stack me permite abordar desafíos desde la concepción hasta la implementación, garantizando soluciones cohesivas y de alta calidad. Me defino también por mi habilidad para aprender nuevas tecnologías velozmente, lo que me permite mantenerme actualizado en un entorno tecnológico en constante evolución.
 </p>
 
-- 🌱 I’m currently learning **fundaments, low and high level in Holberton School**
+- 🌱 Actualmente graduado de Holberton School y ampliando mis conocimientos sobre **Ract, Class component, Webpack, y Next.js**
 
-- 💬 Ask me about **C, Python, Flask, MySQL**
+- 💬 Puedes preguntarme acerca de  **C, Python, Node, React, UX/UI**
 
 - 📫 How to reach me **fernan2lopezkto@gmail.com**
 
